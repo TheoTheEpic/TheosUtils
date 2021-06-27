@@ -1,6 +1,0 @@
-:warning: **IMPORTANT: READ ME** :warning: 
-`Pings:` @here @everyone 
-`Priority: High`
-`Webhook Secure: False`
-`Message:` Your webhook security has been breached! Please secure your webhooks using Secure Hook at: discord.gg/WKP4FbGg3P
-`Note:` *This is an automated message to leaked webhooks to ensure the best webhook security*
